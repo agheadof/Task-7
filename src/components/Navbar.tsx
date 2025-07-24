@@ -133,8 +133,13 @@ const Navbar = ({ items }: NavProps) => {
             <p className="text-[#EFEFEF4D] inline-flex items-center gap-1">
               EN <DownArrow />
             </p>
-            <button className="cursor-pointer px-3 py-2.5">Sign IN</button>
-            <Button onClick={() => {}}>Sign Up</Button>
+            <button
+              onClick={() => openModal("login")}
+              className="cursor-pointer px-3 py-2.5"
+            >
+              Sign IN
+            </button>
+            <Button onClick={() => openModal("signup")}>Sign Up</Button>
           </div>
         </nav>
       )}
