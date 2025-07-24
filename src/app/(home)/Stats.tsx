@@ -6,7 +6,7 @@ const Stats = ({ statsData }: StatsData) => {
     <div className="grid grid-cols-1 lg:grid-cols-2 justify-center items-center w-3/4 mx-auto my-32 ">
       <div className=" flex justify-center items-center hover:scale-110 transition-all duration-300 ease-in-out">
         <Image
-          src="/Girl1.png"
+          src="/Girl1.webp"
           alt="Girl Holding map & phone"
           height={650}
           width={450}

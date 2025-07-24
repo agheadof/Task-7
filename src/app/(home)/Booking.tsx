@@ -4,7 +4,7 @@ import { Calender, Clock } from "../../../public/icons/icons"
 
 const Booking = () => {
   return (
-    <div className=" grid grid-cols-1 lg:grid-cols-2 bg-[url('/gradiant.png')] bg-cover bg-fixed my-16 min-h-[648px]">
+    <div className=" grid grid-cols-1 lg:grid-cols-2 bg-[url('/gradiant.webp')] bg-cover bg-fixed my-16 min-h-[648px]">
       <div className=" flex flex-col justify-center items-center mr-auto ml-auto lg:mr-0 ">
         <h1 className="lg:font-extrabold lg:text-3xl font-bold text-lg mt-16">
           Book Now Bike
@@ -46,7 +46,7 @@ const Booking = () => {
 
       <div className="hidden relative lg:flex justify-center">
         <img
-          src="/bike.png"
+          src="/bike.webp"
           alt="Bike"
           className="absolute -bottom-10 left-0 hover:scale-110 transition-all duration-300 ease-in-out"
         />

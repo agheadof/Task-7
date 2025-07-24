@@ -1,6 +1,6 @@
 const AboutHero = () => {
   return (
-    <div className="relative bg-[url('/about.jpg')] bg-cover bg-fixed h-[992px] text-white">
+    <div className="relative bg-[url('/about.webp')] bg-cover bg-fixed h-[992px] text-white">
       <div className=" bg-[#00000033]  h-full" />
       <div className="absolute flex flex-col m-auto w-1/2  h-[390px] inset-0 gap-6">
         <h1 className="font-[podcast] text-5xl lg:text-7xl  text-center">

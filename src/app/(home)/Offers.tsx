@@ -18,24 +18,24 @@ export default Offers
 
 const offersData: OfferCardProps[] = [
   {
-    img: "/offer1.png",
+    img: "/offer1.webp",
     title: "Bike and rickshaw rental",
     description: "Book your quality vehicle quickly for an hour or all day!",
   },
   {
-    img: "/offer2.jpg",
+    img: "/offer2.webp",
     title: "Guided tour of the countryside",
     description:
       "Live the real Lucchese experience by visiting the suburbs by bike!",
   },
   {
-    img: "/offer4.png",
+    img: "/offer4.webp",
     title: "Taxi and NCC service",
     description:
       "Do you need not only a bike but also a driver? Then you have found the right place!",
   },
   {
-    img: "/offer3.png",
+    img: "/offer3.webp",
     title: "Bus Package",
     description:
       "Do you need not only a bike but also a driver? Then you have found the right place!",

@@ -28,7 +28,7 @@ export default Destination
 
 const cardData: CardProps[] = [
   {
-    img: "/destination1.png",
+    img: "/destination1.webp",
     title: "Lucca Bike Tour",
     price: "34",
     scheduale: "EVERY DAY",
@@ -37,7 +37,7 @@ const cardData: CardProps[] = [
       "A tour of the city and its surroundings led by a professional guide ...",
   },
   {
-    img: "/destination2.png",
+    img: "/destination2.webp",
     title: "Wine tasting In Tuscany",
     price: "34",
     scheduale: "MONDAY",
@@ -46,7 +46,7 @@ const cardData: CardProps[] = [
       "The real magic is here where you can enjoy the best Tuscan wine and eat ...",
   },
   {
-    img: "/destination3.png",
+    img: "/destination3.webp",
     title: "Cinque Terre Tour",
     price: "34",
     scheduale: "TO BE DECIDED",
@@ -55,7 +55,7 @@ const cardData: CardProps[] = [
       "Visiting the 5 Terre is a must, and you can never go there enough ...",
   },
   {
-    img: "/destination4.png",
+    img: "/destination4.webp",
     title: "Siena and Surroundings",
     price: "34",
     scheduale: "TO BE DECIDED",
@@ -64,7 +64,7 @@ const cardData: CardProps[] = [
       "Visit the beautiful Siena and the cities that surround it to experience ...",
   },
   {
-    img: "/destination3.png",
+    img: "/destination3.webp",
     title: "Cinque Terre Tour",
     price: "34",
     scheduale: "TO BE DECIDED",
@@ -73,7 +73,7 @@ const cardData: CardProps[] = [
       "Visiting the 5 Terre is a must, and you can never go there enough ...",
   },
   {
-    img: "/destination4.png",
+    img: "/destination4.webp",
     title: "Siena and Surroundings",
     price: "34",
     scheduale: "TO BE DECIDED",
@@ -82,7 +82,7 @@ const cardData: CardProps[] = [
       "Visit the beautiful Siena and the cities that surround it to experience ...",
   },
   {
-    img: "/destination1.png",
+    img: "/destination1.webp",
     title: "Lucca Bike Tour",
     price: "34",
     scheduale: "EVERY DAY",
@@ -91,7 +91,7 @@ const cardData: CardProps[] = [
       "A tour of the city and its surroundings led by a professional guide ...",
   },
   {
-    img: "/destination2.png",
+    img: "/destination2.webp",
     title: "Wine tasting In Tuscany",
     price: "34",
     scheduale: "MONDAY",

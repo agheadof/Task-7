@@ -33,7 +33,7 @@ export default Packages
 
 const packagesData: PackageProps[] = [
   {
-    img: "/pkg1.png",
+    img: "/pkg1.webp",
     title: "BIKE / RICKSHAW",
     price: 10,
     features: [
@@ -44,7 +44,7 @@ const packagesData: PackageProps[] = [
     ],
   },
   {
-    img: "/pkg2.png",
+    img: "/pkg2.webp",
     title: "BIKE TOURS",
     price: 30,
     features: [
@@ -55,7 +55,7 @@ const packagesData: PackageProps[] = [
     ],
   },
   {
-    img: "/pkg3.png",
+    img: "/pkg3.webp",
     title: "BUS TRIPS",
     price: 45,
     features: [
@@ -66,7 +66,7 @@ const packagesData: PackageProps[] = [
     ],
   },
   {
-    img: "/offer4.png",
+    img: "/offer4.webp",
     title: "Transfer",
     price: 10,
     features: [

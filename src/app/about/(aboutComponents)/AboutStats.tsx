@@ -7,7 +7,7 @@ const AboutStats = ({ statsData }: StatsData) => {
       <div className=" rounded-3xl border border-[#EFEFEF] p-6 flex justify-center items-center hover:scale-110 transition-all duration-300 ease-in-out">
         <div className="relative flex h-[560px] w-full">
           <Image
-            src="/Houses.png"
+            src="/Houses.webp"
             alt="Rural Houses"
             fill
             className="object-cover rounded-3xl"
